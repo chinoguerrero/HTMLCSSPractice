@@ -1,1 +1,1 @@
-# basic fullstack website
+# basic website
